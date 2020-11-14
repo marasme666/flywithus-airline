@@ -1,2 +1,2 @@
 # flywithus-airline
-Demo airline project
+Demo airline project consist few microservices with diffrent category: front office, back office, infrastructure ...
